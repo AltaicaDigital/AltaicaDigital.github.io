@@ -1,0 +1,57 @@
+body {
+  background-color: #fff;
+  color: #333;
+  font-family: -apple-system, BlinkMacSystemFont, "Avenir Next", "Avenir", "Segoe UI", "Lucida Grande", "Helvetica Neue", "Helvetica", "Fira Sans", "Roboto", "Noto", "Droid Sans", "Cantarell", "Oxygen", "Ubuntu", "Franklin Gothic Medium", "Century Gothic", "Liberation Sans", sans-serif;
+  padding: 18vh 1rem;
+  padding-top: 20vh;
+  text-align: center; }
+
+a {
+  color: #37b; }
+
+a:link {
+  color: #37b; }
+
+a:visited {
+  color: #abc;
+  font: inherit; }
+
+a:active {
+  color: #019; }
+
+a:hover {
+  color: #019; }
+
+nav.navbar {
+  background-color: #00416d;
+  background: #00416d -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), color-stop(0.4, rgba(0, 0, 0, 0)), to(rgba(0, 0, 0, 0)));
+  border-bottom: 2px solid #ccc;
+  -webkit-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.8); }
+  nav.navbar a {
+    color: rgba(0, 0, 0, 0.7); }
+    nav.navbar a:focus, nav.navbar a:hover {
+      color: rgba(0, 0, 0, 0.6); }
+
+img.app-store-badge {
+  max-height: 53.333333px;
+  max-width: 180px;
+  width: 100%;
+  margin: 20px auto; }
+
+img.apple-product-portrait {
+  margin: auto; }
+
+img.apple-product-landscape {
+  min-width: 200px;
+  margin: 20px auto; }
+
+img.app-icon {
+  max-width: 180px;
+  width: 100%;
+  margin: auto; }
+
+#footer {
+  clear: both;
+  padding-top: 20px;
+  font: 12px "Lucida Grande", "Lucida Sans Unicode", Arial, Geneva, Verdana;
+  text-align: center; }
